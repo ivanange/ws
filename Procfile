@@ -1,0 +1,1 @@
+web: php ws_server.php
