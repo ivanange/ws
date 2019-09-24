@@ -1,4 +1,4 @@
-URL = 'ws://34.194.252.60:4444';
+URL = 'ws://my-starting-hello-world-app.herokuapp.com:4444';
 //URL = 'wss://echo.websocket.org/';
 outputDiv = document.getElementById('output');
 form = document.forms[0];
