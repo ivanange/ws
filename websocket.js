@@ -1,4 +1,4 @@
-URL = 'ws://websocket:4444';
+URL = 'ws://34.194.252.60:4444';
 //URL = 'wss://echo.websocket.org/';
 outputDiv = document.getElementById('output');
 form = document.forms[0];
