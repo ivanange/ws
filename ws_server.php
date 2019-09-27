@@ -3,7 +3,7 @@
 // Run from command prompt > php -q ws_server.php
 include "phpwebsocket.php";
 
-$server_ip="my-starting-hello-world-app.herokuapp.com";  //what is the IP of your server
+$server_ip="34.234.249.111]";  //what is the IP of your server
 
 // Extended basic WebSocket as ws_server
 class ws_server extends phpWebSocket{
