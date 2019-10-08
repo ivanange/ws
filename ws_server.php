@@ -3,7 +3,7 @@
 // Run from command prompt > php -q ws_server.php
 include "phpwebsocket.php";
 
-$server_ip="172.217.168.180";  //what is the IP of your server
+$server_ip="tokyo-griffin-231513.appspot.com";  //what is the IP of your server
 
 
 // Extended basic WebSocket as ws_server
